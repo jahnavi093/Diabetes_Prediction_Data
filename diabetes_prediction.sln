@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "diabetes_prediction", "diabetes_prediction.pyproj", "{8FFDECCF-1AD5-4F6A-81A3-3891F6867F38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FFDECCF-1AD5-4F6A-81A3-3891F6867F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FFDECCF-1AD5-4F6A-81A3-3891F6867F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B02BE154-DD30-4527-837B-2A6BA3926675}
+	EndGlobalSection
+EndGlobal
